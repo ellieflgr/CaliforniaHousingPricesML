@@ -1,3 +1,7 @@
-This is a workthrough project from the second chapter of the book  *"Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"* by Aurélien Géron that I am working through and playing with for educational purposes. **Accordingly, this is (mostly) not my own code**, the original can be found [here](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb). 
+This is a workthrough project from the second chapter of the book  *"Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"* by Aurélien Géron.
 
-As I am following merely an exploratory approach here, it contains a lot of my own comments, observations and reflections, serving the purpose of personal documentation and conditioning for revisiting.
+I added plenty of code, comments and ideas to it and managed to successfully improve the performance of the model used in the book through applying my own ideas in feature engineering.
+
+The original can be found [here](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb). 
+
+
